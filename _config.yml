@@ -1,5 +1,5 @@
 # main text of home
-name: John Doe
+name: KayBee
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://kalpriksh.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -53,8 +53,8 @@ email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Kaybee
+        bio: YOLO 
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
